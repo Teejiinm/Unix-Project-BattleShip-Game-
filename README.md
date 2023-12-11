@@ -1,6 +1,6 @@
 # Unix-Project-BattleShip-Game
-###22101191우수흐바야르
-###22101219테리겔
+###22101191 우수흐바야르
+###22101219 테르겔
 
 ## Introduction
 
